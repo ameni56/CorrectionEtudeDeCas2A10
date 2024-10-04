@@ -1,3 +1,4 @@
+//Etude de cas
 document.addEventListener("DOMContentLoaded",function(){
 
     var titleElement=document.getElementById("title");
